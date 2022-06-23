@@ -38,7 +38,7 @@ const MyDetails = () => {
             </a>
           </li>
           <li className="list-item">
-            <a href="https://twitter.com/afkola" target="_blank" rel="noopener noreferrer">
+            <a href="https://twitter.com/femikola23" target="_blank" rel="noopener noreferrer">
               <FaTwitter />
             </a>
           </li>
