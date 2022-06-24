@@ -6,7 +6,7 @@ const projects = [
   {
     id: 1,
     title: 'Rent A Scooter',
-    description: 'A responsive front end application for rent-an-item project. It is a web application based on react-redux, the application shows to the user a collection of scooters fetched from an API, the details include scooter name, photo, price and discription. The user can sign up and add new scooters to the collection and have their own favorites collection.',
+    description: 'This is a web application that shows to the user a collection of scooters fetched from an API, the details include scooter name, photo, price and discription. The user can sign up and add new scooters to the collection and have their own favorites collection.',
     tech: ['JavasScript', 'React', 'Ruby On Rails', 'PostgresSQL'],
     liveLink: 'https://rent-item-ph.herokuapp.com/',
     sourceLink: 'https://github.com/phelian23/rent-item-frontend',

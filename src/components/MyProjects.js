@@ -24,6 +24,9 @@ const MyProjects = () => {
   return (
     <div>
       <div className={`projects-cont-${projects[slider].id} projects-cont`}>
+        <div className="projects-cont-inner">
+        <h1>Recent Works</h1>
+        <hr className="about-hr" />
         <div className="projects-slider">
           <button className="dir-btn" onClick={prevSlide}>
             <GrPrevious />
@@ -43,6 +46,7 @@ const MyProjects = () => {
           <button className="dir-btn" onClick={nextSlide}>
             <GrNext />
           </button>
+          </div>
         </div>
       </div>
     </div>
