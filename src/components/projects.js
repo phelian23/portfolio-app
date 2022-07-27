@@ -1,6 +1,7 @@
 import Budget from '../images/Budget.jpg';
 import camo from '../images/camo.jpg';
 import rentScoot from '../images/rentScoot.jpg';
+import Forward from '../images/Forward.png';
 
 const projects = [
   {
@@ -19,7 +20,7 @@ const projects = [
     tech: ['JavasScript', 'React', 'Ruby On Rails', 'PostgresSQL'],
     liveLink: 'https://62e127b5ad63ff0b85e27648--timely-cascaron-02b67e.netlify.app/',
     sourceLink: 'https://github.com/phelian23/forward-frontend',
-    image: rentScoot,
+    image: Forward,
   },
   {
     id: 3,
