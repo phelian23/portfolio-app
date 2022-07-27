@@ -85,7 +85,7 @@
 }
 
 .projects-cont-2 {
-  background-color: #f1f1f1;
+  background-color: #16ce81;
 }
 
 .projects-cont-3 {
@@ -105,6 +105,34 @@
 }
 
 .projects-cont-7 {
+  background-color: rebeccapurple;
+}
+
+.projects-cont-8 {
+  background-color: #4152ee;
+}
+
+.projects-cont-9 {
+  background-color: #16ce81;
+}
+
+.projects-cont-10 {
+  background-color: goldenrod;
+}
+
+.projects-cont-11 {
+  background-color: magenta;
+}
+
+.projects-cont-12 {
+  background-color: mediumturquoise;
+}
+
+.projects-cont-13 {
+  background-color: yellowgreen;
+}
+
+.projects-cont-14 {
   background-color: rebeccapurple;
 }
 
@@ -186,7 +214,8 @@
 }
 
 .tech-6,
-.tech-7 {
+.tech-7,
+.tech-8 {
   background-color: #e5eaf7;
   color: #1a1a1a;
 }
